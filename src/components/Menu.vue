@@ -71,7 +71,7 @@
       >
         <p class="font-bold text-2xl text-white-alpha-90">Shopping Cart</p>
       </div>
-      <div class="p-2 flex flex-column flex-auto">
+      <div class="flex flex-column flex-auto">
         <div class="border-2 surface-border border-round bg-gray-200 flex-auto">
           <ShoppingCart :shoppingcart="shoppingcart" />
         </div>
